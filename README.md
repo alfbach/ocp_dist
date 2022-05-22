@@ -20,7 +20,15 @@ Core-OS Cri-O and the Operator Framework
 
 Self Learning Environments						
 
-HomeWork: OpenShift 4 Foundations
+HomeWork: 
+
+enroll to : Red Hat Sales Engineer Specialist - Container Platform	 
+
+https://connect.redhat.com/en/training/course-catalog?m=lp&id=42541521
+
+start:	Red Hat OpenShift 4 Foundations 
+
+https://connect.redhat.com/en/training/course-catalog?m=c&id=42415995
 
 -----------------------------------------------------------------------
 Monday 30.05 16:00 - 18:00 CEST
@@ -33,7 +41,7 @@ HyperShift
 
 Advanced Cluster Management					
 
-HomeWork: cont. OpenShift 4 Foundations
+HomeWork: cont: Red Hat OpenShift 4 Foundations and pass assessment
 
 -----------------------------------------------------------------------
 Tuesday 07.06 16:00 - 18:00 CEST
@@ -46,9 +54,7 @@ Quay Enterprise Registry
 
 OpenShift Virtualization						
 
-HomeWork:(OpenShift Container Platform 4 Installation) - > Retired sorry !
-
->>>>> Introduction to Red Hat OpenShift Container Platform 4 Operators. <<<<<<
+HomeWork: cont. Red Hat Sales Engineer Specialist - Container Platform 
 
 ----------------------------------------------------------------------
 Monday 13.06. 16:00 - 18:00 CEST
@@ -59,7 +65,7 @@ Security at a glance
 
 Advanced Container Security for Kubernetes			
 		
-HomeWork: Red Hat OpenShift Data Foundation for Technical Sales
+HomeWork: cont. Red Hat Sales Engineer Specialist - Container Platform 
 
 ------------------------------------------------------------------------
 Monday 20.06 16:00 - 18:00 CEST		
@@ -72,5 +78,5 @@ Cloud-Native and ISTIO (Service Mesh) in a Nutshell
 
 What's Coming in OpenShift (2022 Roadmap review)		
 		
-HomeWork: Hands-On with Red Hat OpenShift 4.9
+HomeWork: pass assessment cont. Red Hat Sales Engineer Specialist - Container Platform 
 
