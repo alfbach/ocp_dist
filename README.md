@@ -4,6 +4,7 @@
 # Red Hat OpenShift 4 Infrastructure
 ## Distance Learning
 
+Session Link: https://bluejeans.com/630707032/8152
 
 May / June 2022
 
