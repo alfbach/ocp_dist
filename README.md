@@ -15,7 +15,13 @@ Monday 23.05. 16:00 - 18:00 CEST
 
 ### Session 1:	
 
-OpenShift Architecture						
+OpenShift Architecture	
+
+Videolinks:
+
+Architecture: https://drive.google.com/file/d/1sdWyKXD2rcHDEomfkClyWP7xjkMupdgx/view?usp=sharing
+
+Install: https://drive.google.com/file/d/1HwwVxlwsrHPcKIpiZaVVrUmtYxFlHi79/view?usp=sharing
 
 Core-OS Cri-O and the Operator Framework			
 
@@ -43,6 +49,8 @@ HyperShift
 Advanced Cluster Management					
 
 HomeWork: cont: Red Hat OpenShift 4 Foundations and pass assessment
+
+Please find additional WS Dates here: https://github.com/alfbach/ocp_dist/wiki
 
 -----------------------------------------------------------------------
 Tuesday 07.06 16:00 - 18:00 CEST
